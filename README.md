@@ -4,19 +4,19 @@ I am Dynamic Product Owner and Manager with a proven track record leading the de
 ![Sarah Janssen Image](https://github.com/user-attachments/assets/66920f81-dee4-4516-a5ed-2da481edbd44)
 
 ## My top Skills 
-- [x] Agile Project Management Skills/Agile Development
-- [x] Product development road-mapping and backlog prioritization with Jira and confluence
-- [x] Global project management
-- [x] Stakeholder engagement
-- [x] Cross-functional collaboration and Leadership
-- [x] User Experience Testing
-- [x] Geographic information systems
-- [x] Analytical Mindset
-- [x] Technical understanding of APIs, data pipelines, and machine learnin
-- [x] Drone Technology proficiency, UAV operation, flight planning, and management
-- [x] LiDar Technology proficiency
-- [x] Visual communication skills
-- [x]  Customer Focused
+- Agile Project Management Skills/Agile Development
+- Product development road-mapping and backlog prioritization with Jira and confluence
+- Global project management
+- Stakeholder engagement
+- Cross-functional collaboration and Leadership
+- User Experience Testing
+- Geographic information systems
+- Analytical Mindset
+- Technical understanding of APIs, data pipelines, and machine learnin
+- Drone Technology proficiency, UAV operation, flight planning, and management
+- LiDar Technology proficiency
+- Visual communication skills
+- Customer Focused
 
 My Full resume is avaialable here: [Sarah Janssen Resume](https://drive.google.com/file/d/1bNr7nxrqKGo7bSj33djKYSxhOlogicTR/view?usp=sharing)
 
